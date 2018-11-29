@@ -1,0 +1,28 @@
+<svg id="Group_4" data-name="Group 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #e6e6e6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #dcdcdc;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Oval_3" data-name="Oval 3" class="cls-1">
+    <circle class="cls-3" cx="15" cy="15" r="15"/>
+    <circle class="cls-4" cx="15" cy="15" r="14"/>
+  </g>
+  <path id="Imported_Layers" data-name="Imported Layers" class="cls-2" d="M5.675,17V9.246H8.253l.386-3.022H5.675V4.294c0-.875.241-1.471,1.483-1.471H8.743V.119A21.008,21.008,0,0,0,6.433,0,3.624,3.624,0,0,0,2.584,3.995V6.223H0V9.246H2.584V17H5.675" transform="translate(11 7)"/>
+</svg>

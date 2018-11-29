@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 23.668">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #d84137;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="User_Icon" data-name="User Icon" transform="translate(1 1)">
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-1" d="M5.417,0A5.417,5.417,0,1,1,0,5.417,5.417,5.417,0,0,1,5.417,0Z" transform="translate(4.167)"/>
+    <path id="Stroke_8" data-name="Stroke 8" class="cls-2" d="M10,0A10.991,10.991,0,0,1,20,6.31l-9.936,4.523L0,6.31A10.99,10.99,0,0,1,10,0Z" transform="translate(0 10.833)"/>
+  </g>
+</svg>

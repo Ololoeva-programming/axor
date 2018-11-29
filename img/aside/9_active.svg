@@ -1,0 +1,35 @@
+<svg id="Page_1" data-name="Page 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d84137;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" class="cls-1" d="M0,42H42V0H0Z"/>
+    </clipPath>
+  </defs>
+  <path id="Stroke_1" data-name="Stroke 1" class="cls-2" d="M20,0A20,20,0,1,1,0,20,20.007,20.007,0,0,1,20,0Z" transform="translate(1 1)"/>
+  <path id="Clip_4-2" data-name="Clip 4" class="cls-1" d="M0,42H42V0H0Z"/>
+  <g id="Page_1-2" data-name="Page 1" class="cls-3">
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-2" d="M0,18.374H19.811V0H0Z" transform="translate(11.095 12.304)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-2" d="M0,0V18" transform="translate(15.102 12.304)"/>
+    <path id="Stroke_6" data-name="Stroke 6" class="cls-2" d="M0,0V18" transform="translate(19.034 12.304)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-2" d="M0,0V18" transform="translate(22.966 12.304)"/>
+    <path id="Stroke_8" data-name="Stroke 8" class="cls-2" d="M0,0V18" transform="translate(26.86 12.304)"/>
+    <path id="Stroke_9" data-name="Stroke 9" class="cls-2" d="M5.633,0H0" transform="translate(33.817 28.675)"/>
+    <path id="Stroke_10" data-name="Stroke 10" class="cls-2" d="M0,0H6.2" transform="translate(2.096 14.308)"/>
+  </g>
+</svg>

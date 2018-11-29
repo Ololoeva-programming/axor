@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d84137;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 12px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-240 -1223)">
+    <g id="Group_18" data-name="Group 18" transform="translate(240 1223)">
+      <g id="подсказка">
+        <circle id="Oval_2" data-name="Oval 2" class="cls-1" cx="8" cy="8" r="8"/>
+        <text id="_" data-name="?" class="cls-2" transform="translate(8 13)"><tspan x="-2.689" y="0">?</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

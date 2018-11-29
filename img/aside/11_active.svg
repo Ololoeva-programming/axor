@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #d84137;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="axor_icons2" transform="translate(1 1)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M20,0A20,20,0,1,1,0,20,20,20,0,0,1,20,0Z"/>
+    <path id="Stroke_2" data-name="Stroke 2" class="cls-2" d="M15.961,0,12.247,14.968H3.713L0,0H9.28" transform="translate(11.917 18.185)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-3" d="M5.4,0,0,21.635" transform="translate(21.418 8.461)"/>
+    <path id="Stroke_4" data-name="Stroke 4" class="cls-3" d="M0,0,2.862.714" transform="translate(26.817 8.461)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-3" d="M0,0,2.862.714" transform="translate(26.214 10.877)"/>
+    <path id="Stroke_6" data-name="Stroke 6" class="cls-3" d="M0,0,2.862.714" transform="translate(25.611 13.293)"/>
+  </g>
+</svg>

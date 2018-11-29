@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #1e1e1e;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="обратка" transform="translate(1 1)">
+    <path id="Stroke_2" data-name="Stroke 2" class="cls-1" d="M5.858,5.858a20,20,0,1,1,0,28.284A20,20,0,0,1,5.858,5.858Z"/>
+    <path id="Stroke_6" data-name="Stroke 6" class="cls-2" d="M16.074,16.074c-3.258-.416-7.093-2.414-10.377-5.7S.416,3.258,0,0" transform="translate(9.066 14.859)"/>
+    <path id="Path" class="cls-2" d="M0,6.156,6.156,0" transform="translate(21.175 12.668)"/>
+    <path id="Path-2" data-name="Path" class="cls-2" d="M5.117,5.117H0V0" transform="translate(20.818 14.065)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-2" d="M0,1.34,2.8.085A.97.97,0,0,1,4.075.571L5.711,4.215a.971.971,0,0,1-.486,1.279" transform="translate(9.067 13.519)"/>
+    <path id="Stroke_8" data-name="Stroke 8" class="cls-2" d="M4.154,5.8,5.41,3a.97.97,0,0,0-.486-1.279L1.279.085A.97.97,0,0,0,0,.571" transform="translate(20.986 25.137)"/>
+  </g>
+</svg>

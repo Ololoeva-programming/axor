@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42.037">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b3b3b3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Page_1" data-name="Page 1" transform="translate(1 1)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M20,0A20.019,20.019,0,1,1,0,20,20.008,20.008,0,0,1,20,0Z" transform="translate(0 0)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M26.579,4.272H5.634A1.354,1.354,0,0,0,4.31,5.632v1.74H0V5.632A5.688,5.688,0,0,1,1.664,1.626,5.562,5.562,0,0,1,5.634,0H26.579" transform="translate(6.692 16.333)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-1" d="M0,5.52V0" transform="translate(24.159 10.207)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-1" d="M5.066,0H0" transform="translate(19.093 10.208)"/>
+    <path id="Stroke_9" data-name="Stroke 9" class="cls-1" d="M0,0H2.911" transform="translate(26.994 10.208)"/>
+    <path id="Stroke_11" data-name="Stroke 11" class="cls-1" d="M0,4.272V0" transform="translate(8.847 26.768)"/>
+  </g>
+</svg>

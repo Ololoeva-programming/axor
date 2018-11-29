@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15.217 14.473">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e6e6;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #ffc117;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Mask" class="cls-1" d="M8,12,3.3,14.472l.9-5.236L.392,5.528l5.257-.764L8,0l2.351,4.764,5.257.764L11.8,9.236l.9,5.236Z" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(-0.392)">
+    <path id="Mask-2" data-name="Mask" class="cls-1" d="M8,12,3.3,14.472l.9-5.236L.392,5.528l5.257-.764L8,0l2.351,4.764,5.257.764L11.8,9.236l.9,5.236Z" transform="translate(0)"/>
+    <g id="Rectangle_3-2" data-name="Rectangle 3" class="cls-2">
+      <rect id="Rectangle_3-3" data-name="Rectangle 3" class="cls-3" width="9" height="15" transform="translate(-1)"/>
+    </g>
+  </g>
+</svg>

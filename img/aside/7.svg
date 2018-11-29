@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b3b3b3;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Page_1" data-name="Page 1" transform="translate(1 1)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M20,0A20,20,0,1,1,0,20,19.983,19.983,0,0,1,20,0Z" transform="translate(0 0)"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M0,6.806,6.8,0l6.8,6.806-6.8,6.8Z" transform="translate(6.39 13.194)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-1" d="M0,6.806,6.8,0l6.8,6.806L6.8,13.612Z" transform="translate(13.195 6.389)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-1" d="M0,6.8,6.8,0l6.8,6.8L6.8,13.611Z" transform="translate(13.195 20)"/>
+    <path id="Stroke_9" data-name="Stroke 9" class="cls-1" d="M0,6.806,6.8,0l6.8,6.806-6.8,6.8Z" transform="translate(20 13.194)"/>
+  </g>
+</svg>

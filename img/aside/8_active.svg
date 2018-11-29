@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #d84137;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Page_1" data-name="Page 1" transform="translate(1 1)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M20,0A20,20,0,1,1,0,20,20.007,20.007,0,0,1,20,0Z"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M8.885,0,12.4,3.517,3.554,12.363,0,8.848Z" transform="translate(10.245 10.283)"/>
+    <path id="Stroke_5" data-name="Stroke 5" class="cls-1" d="M8.847,0l3.516,3.555L3.516,12.4,0,8.848Z" transform="translate(9.376 18.223)"/>
+    <path id="Stroke_7" data-name="Stroke 7" class="cls-1" d="M8.847,0,12.4,3.517,3.516,12.4,0,8.847Z" transform="translate(18.223 9.376)"/>
+    <path id="Stroke_9" data-name="Stroke 9" class="cls-1" d="M4.423,0,7.939,3.516,3.516,7.939,0,4.423Z" transform="translate(19.131 5.86)"/>
+    <path id="Stroke_11" data-name="Stroke 11" class="cls-1" d="M8.884,0,12.4,3.516,3.553,12.363,0,8.847Z" transform="translate(17.316 17.354)"/>
+    <path id="Stroke_13" data-name="Stroke 13" class="cls-1" d="M4.424,0,7.978,3.517,3.554,7.939,0,4.424Z" transform="translate(12.892 26.2)"/>
+  </g>
+</svg>
