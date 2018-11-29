@@ -224,6 +224,12 @@ $(function() {
     });
 
 
+    $('.list_cl').on('click', function () {
+        $('.letter_block_wr>div').show().css('opacity','1');
+        return false;
+    });
+
+
     // search block
 
 
