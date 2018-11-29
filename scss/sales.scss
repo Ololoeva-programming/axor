@@ -1,0 +1,114 @@
+.main_sales{
+  .sales_wr{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 35px;
+    .sale_block{
+      flex-basis: 49.5%;
+      margin-bottom: 50px;
+      .img{
+        position: relative;
+        display: block;
+        margin-bottom: 5px;
+        img{
+          width: 100%;
+        }
+        .abs_text{
+          position: absolute;
+          top: 50%;
+          left: 5%;
+          transform: translate(0,-50%);
+          color: #fff;
+          .big_text{
+            font-size: 120px;
+            line-height: 130px;
+            span{
+              font-size: 120px;
+              display: block;
+            }
+          }
+          p{
+            font-size: 30px;
+            line-height: 34px;
+            span{
+              display: block;
+              font-size: 30px;
+            }
+          }
+          h2{
+            font: 144px $reg;
+            line-height: 120px;
+          }
+          h3{
+            font-size: 54px;
+            line-height: 50px;
+          }
+        }
+      }
+      .date{
+        font: 17px $bold;
+      }
+      .descr{
+        font-size: 17px;
+        span{
+          font-size: 17px;
+          display: block;
+        }
+      }
+    }
+    .one_article{
+      flex-basis: 100% !important;
+      .img img{
+        max-height: 479px;
+      }
+    }
+  }
+  .brands{
+    margin-top: 35px;
+    -moz-column-count: 4; /* Для Firefox */
+    -webkit-column-count: 4; /* Для Safari и Chrome */
+    column-count: 4;
+    max-width: 620px;
+    width: 100%;
+    li{
+      margin-bottom: 5px;
+    }
+    a{
+      color: #1E1E1E;
+      font-size: 17px;
+      border-bottom: 1px solid #D8D8D8;
+      @include transition(all .2s linear);
+      &:hover{
+        border-bottom: 1px solid transparent;
+      }
+    }
+  }
+}
+
+.sales_prod{
+  .title{
+    font: 24px $bold;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+  .prod_controlls{
+    justify-content: flex-start;
+    padding-left: 20px;
+    span{
+      color: #fff;
+      border-bottom: none;
+      &:hover{
+        border-bottom: none;
+      }
+    }
+    .main_btn{
+      height: 40px;
+      line-height: 40px;
+      padding: 0;
+      width: 218px;
+      display: block;
+      margin: 30px 0;
+    }
+  }
+}

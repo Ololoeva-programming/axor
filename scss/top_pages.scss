@@ -1,0 +1,391 @@
+.top_pages{
+  padding-bottom: 200px;
+  .banner_brand{
+    padding: 33px 46px;
+    margin-top: 15px;
+    color: #fff;
+    background: url("../img/brand_banner.jpg") no-repeat;
+    background-size: cover;
+    h1{
+      font-size: 110px;
+      line-height: 110px;
+    }
+    h2{
+      font-size: 90px;
+      line-height: 90px;
+      padding-left: 210px;
+    }
+  }
+  .banner_bath{
+    @extend .banner_brand;
+    background: url("../img/bath_banner.jpg") no-repeat;
+    background-size: cover;
+  }
+  .brand_descr{
+    font-size: 20px;
+    max-width: 640px;
+    width: 100%;
+    margin: 20px;
+    line-height: 30px;
+  }
+  .select{
+    display: none;
+    .jq-selectbox__select-text{
+      width: auto !important;
+    }
+  }
+
+  .tabs{
+    display: flex;
+    .tab_content{
+      order: 1;
+      background: #F9F9F9;
+      max-width: 763px;
+      width: 100%;
+      padding: 25px 50px 25px 50px;
+    }
+    .tab_links{
+      display: block;
+      order: 2;
+      padding-left: 3%;
+      border-bottom: 0;
+      a{
+        font: 17px $bold;
+        padding: 0;
+        display: block;
+        margin-top: 24px;
+        &:first-child{
+          margin-top: 0;
+        }
+      }
+      .name{
+        font: 17px $bold;
+      }
+      .active{
+        border: none;
+        .number{
+          color: $red;
+          border-color: $red;
+        }
+        &:after{
+          display: none;
+        }
+      }
+      .number{
+        color: #B3B3B3;
+        border: 2px solid #B3B3B3;
+        font: 20px/30px $bold;
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+        width: 30px;
+        height: 30px;
+        margin-right: 15px;
+        line-height: 30px;
+        @include radius(50%);
+      }
+    }
+    .tab_name{
+      font: 24px $bold;
+      padding-bottom: 15px;
+      display: none;
+    }
+  }
+
+  .tabs_inner{
+    .tab_links_inner{
+      display: flex;
+      a{
+        font-size: 17px;
+        width: 180px;
+        height: 40px;
+        color: $dark;
+        border: 1px solid #1E1E1E;
+        text-align: center;
+        line-height: 40px;
+        margin-left: 30px;
+        &:first-child{
+          margin-left: 0;
+        }
+      }
+      .active_inner{
+        color: $red;
+        border-color: $red;
+      }
+    }
+    .tab_content_inner{
+      padding-top: 20px;
+      .tab_item_inner{
+        display: none;
+        &:first-child{
+          display: block;
+        }
+      }
+      .tab_inner_breadcrumbs{
+        margin-left: -20px;
+        a{
+          color: $dark;
+          font-size: 17px;
+          margin-left: 20px;
+        }
+      }
+      .tab_advantages{
+        p{
+          font-size: 17px;
+          line-height: 28px;
+        }
+      }
+    }
+  }
+  .brand_slider{
+    position: relative;
+    .product{
+      background: #fff;
+      border: none;
+      margin-top: 20px;
+      .bottom{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        a{
+          color: $red;
+          font: 16px $bold;
+          display: block;
+          margin-top: 15px;
+        }
+      }
+    }
+    .swiper-pagination{
+      display: none;
+      width: 100%;
+    }
+    .swiper-pagination-bullet{
+      width: 12px;
+      height: 12px;
+      background: #969696;
+      margin: 15px 5px 0;
+      &:focus{
+        outline: none;
+      }
+    }
+  }
+  .swiper-prev{
+    right: auto;
+    left: -30px;
+    img{
+      @include rotate(rotate(180deg));
+    }
+
+  }
+  .swiper-next, .swiper-prev{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: -30px;
+    margin-top: -15px;
+    img{
+      width: 12px;
+      height: 30px;
+    }
+  }
+
+  .top_bath_wr{
+    display: flex;
+    justify-content: space-between;
+    .product_slider{
+      display: flex;
+      .swiper-container-horizontal > .swiper-pagination-bullets{
+        display: none;
+      }
+      .swiper-pagination-bullet{
+        width: 12px;
+        height: 12px;
+        background: #CACACA;
+      }
+      .swiper-container {
+        width: 100%;
+        height: 448px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .swiper-slide {
+        background-size: cover;
+        background-position: center;
+      }
+      .gallery-top {
+        height: 448px;
+        width: 448px;
+        order: 2;
+        margin: 0;
+        background: #fff;
+      }
+      .gallery-thumbs {
+        box-sizing: border-box;
+        order: 1;
+        width: 97px;
+        margin: 0;
+        margin-right: 20px;
+        .swiper-wrapper{
+          display: block;
+          width: 97px;
+        }
+      }
+      .gallery-thumbs .swiper-slide {
+        width: 97px !important;
+        height: 97px;
+        border: 2px solid transparent;
+        display: block;
+        margin-bottom: 20px;
+      }
+      .gallery-thumbs .swiper-slide-thumb-active {
+        border: 2px solid #AFAFAF;
+      }
+      .swiper-button-prev, .swiper-button-next{
+        background: url("../img/icons/slider_arrow.svg") no-repeat;
+        width: 12px;
+        height: 30px;
+        margin-top: -15px;
+        &:focus{
+          outline: none;
+        }
+      }
+      .swiper-button-prev{
+        @include rotate(rotate(180deg));
+      }
+    }
+
+    .video{
+      color: $dark;
+      display: flex;
+      align-items: center;
+      margin-top: 20px;
+      img{
+        width: 19px;
+        height: 19px;
+        margin-right: 7px;
+      }
+      span{
+        font-size: 17px;
+        text-decoration: underline;
+        text-decoration-color: #D1D1D1;
+      }
+    }
+
+    .product{
+      padding: 0;
+      padding-left: 20px;
+      flex-basis: 100%;
+      border: none;
+      .name{
+        font-size: 24px;
+        text-decoration: underline;
+        text-decoration-color: #B9B9B9;
+        color: $dark;
+      }
+      .tab_select{
+        display: none;
+      }
+      .color_and_rating{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 20px 0;
+        .color{
+          justify-content: flex-start;
+          p{
+            color: #9B9B9B;
+            font-size: 15px;
+          }
+        }
+      }
+
+      .price_block{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .price{
+          color: $red;
+          font: 36px $bold;
+        }
+      }
+
+      .checkbox_wr{
+        margin-top: 10px;
+      }
+
+      .tab_links_inner{
+        border: 1px solid #EBEBEB;
+        margin-top: 18px;
+        height: 40px;
+        a{
+          height: auto;
+          width: auto;
+          border: none;
+          font: 17px/40px $reg;
+          margin-left: 90px;
+          text-decoration: underline;
+          text-decoration-color: #C6C6C6;
+          &:first-child{
+            margin-left: 30px;
+          }
+        }
+        .active_inner{
+          border: none;
+          text-decoration: none;
+          color: $dark;
+          font: 17px/40px $bold;
+        }
+      }
+
+      ::-webkit-scrollbar-track{
+        border: 1px solid #ccc;
+      }
+
+      .tab_content_inner{
+        .scroll_block{
+          overflow: hidden;
+          overflow-y: auto;
+          height: 220px;
+        }
+        .description{
+          p{
+            font-size: 17px;
+          }
+        }
+        .characteristic{
+          .main_title{
+            font: 17px $bold;
+            margin-bottom: -5px;
+          }
+          .item{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px dashed #AFAFAF;
+            margin: 8px 15px 8px 0;
+            span{
+              color: $dark;
+              border-bottom: 1px solid #F9F9F9;
+              &:first-child{
+                color: #969696;
+                font-size: 15px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .bath_tab_wr{
+    .tabs{
+      .tab_links .name{
+        display: none;
+      }
+      .tab_content{
+        max-width: 1300px;
+        padding: 25px 20px;
+      }
+    }
+  }
+}

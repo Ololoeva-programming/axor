@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cf47abc-40c9-4d87-81a3-7600a22f46d8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/axorhtml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/basics.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/brand.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/brand_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/card_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/card_tile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/catalogue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/catalogue_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/comparison.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/contacts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/delivery-pay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/delivery-pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fotorama.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fotorama.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/fotorama@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/installation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/installation_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/order_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/payment_and_delivery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/payment_and_delivery_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/purchase.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sales.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/sales_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/start.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/start_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/top_baths.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/top_baths_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/top_brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/top_brands_375.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/files/1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceBold/CirceBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceBold/CirceBold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceBold/CirceBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceBold/CirceBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceBold/CirceBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraBold/CirceExtraBold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraBold/CirceExtraBold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraBold/CirceExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraBold/CirceExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraBold/CirceExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraLight/CRC25.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraLight/CRC25.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraLight/CRC25.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraLight/CRC25.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceExtraLight/CRC25.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceLight/CRC35.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceLight/CRC35.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceLight/CRC35.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceLight/CRC35.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceLight/CRC35.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceRegular/CRC55.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceRegular/CRC55.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceRegular/CRC55.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceRegular/CRC55.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/CirceRegular/CRC55.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/checkboxArrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/citiesArrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/city.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/comboboxarrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/crossRed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/footer/6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/headerBasket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/headerLogin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/mainLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/master-card-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/mobileGlider1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/mobileGlider2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/mobileGlider2White.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/phoneImage.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/product_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/product_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/product_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/scroll.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/10_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/11.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/11_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/12.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/12_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/13.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/13_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/1_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/2_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/3_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/4_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/5_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/6_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/7_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/8_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/sidemenu/9_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/smallComoboxArrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/star_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/star_active_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/star_big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/star_halfActive.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/start_half_active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tube1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tube375.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tubePixel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tubePixel1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/tubePixel375.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/basic/visa-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/add_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/add_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/add_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/button_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/button_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/card_review_bottom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/card_review_left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/card_review_right.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/germetic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/magnifier.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/pdf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/review.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/card/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/banner_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/banner_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/listButtonArrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/mobile_fotorama_header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/tiles/tiles_filters.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/top_catalogue_fotorama.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/catalogue/videoButton.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/comparison/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/comparison/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/comparison/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/comparison/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/comparison/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/contacts/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/contacts/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/contacts/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/2_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/2_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/cons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/installation/pros.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/1_mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/2_mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/3_mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/order/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/sales/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/basket/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/basket/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/basket/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/basket/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/mask1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/start/mask2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/top10/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/top10/arrowRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/top10/bath_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/top10/brands_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/basics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/brand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/catalogue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/codevia-gestures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/comparison.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/contacts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/fotorama.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/payment_and_delivery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/swipers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/top_baths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogue_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogue_tiles.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalogue_tiles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comparison.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery-pay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation.html" beforeDir="false" afterPath="$PROJECT_DIR$/installation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/purchase_returns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sale_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales.html" beforeDir="false" afterPath="$PROJECT_DIR$/sales.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1456001774">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="html" value="13" />
+          <entry key="js" value="21" />
+          <entry key="scss" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="21" />
+          <entry key="SCSS" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="53" />
+          <entry key="html" value="3036" />
+          <entry key="js" value="1995" />
+          <entry key="scss" value="9063" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="53" />
+          <entry key="HTML" value="3036" />
+          <entry key="JavaScript" value="1995" />
+          <entry key="SCSS" value="9063" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1673125388">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="7" />
+          <entry key="js" value="5" />
+          <entry key="scss" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="7" />
+          <entry key="JavaScript" value="5" />
+          <entry key="SCSS" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.delete.remote" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="35" />
+          <entry key="html" value="1310" />
+          <entry key="js" value="356" />
+          <entry key="scss" value="3086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="35" />
+          <entry key="HTML" value="1310" />
+          <entry key="JavaScript" value="356" />
+          <entry key="SCSS" value="3086" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="284470720">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="4" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="html" value="78" />
+          <entry key="js" value="33" />
+          <entry key="json" value="1" />
+          <entry key="rnc" value="1" />
+          <entry key="scss" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="78" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="33" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="SCSS" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="23" />
+          <entry key="html" value="8990" />
+          <entry key="js" value="1538" />
+          <entry key="scss" value="14350" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="23" />
+          <entry key="HTML" value="8990" />
+          <entry key="JavaScript" value="1538" />
+          <entry key="SCSS" value="14350" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1690951594">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="32" />
+          <entry key="html" value="9146" />
+          <entry key="js" value="414" />
+          <entry key="scss" value="16318" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="32" />
+          <entry key="HTML" value="9146" />
+          <entry key="JavaScript" value="414" />
+          <entry key="SCSS" value="16318" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="83" />
+          <entry key="js" value="18" />
+          <entry key="scss" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="83" />
+          <entry key="JavaScript" value="18" />
+          <entry key="SCSS" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="template" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card_tile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="1648" column="11" selection-start-line="1648" selection-start-column="11" selection-end-line="1648" selection-end-column="11" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <marker date="1542640884901" expanded="true" signature="82454:83131" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/media.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="1626" column="18" selection-start-line="1626" selection-start-column="18" selection-end-line="1626" selection-end-column="18" />
+              <folding>
+                <element signature="e#36#462#0" />
+                <element signature="e#964#1177#0" />
+                <element signature="e#1215#2903#0" />
+                <element signature="e#2941#5299#0" />
+                <element signature="e#5337#8243#0" />
+                <element signature="e#8281#9663#0" />
+                <element signature="e#9700#12999#0" />
+                <element signature="e#13036#24673#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/common.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37502">
+              <caret line="2388" selection-start-line="2388" selection-end-line="2388" />
+              <folding>
+                <element signature="e#2586#5492#0" />
+                <element signature="e#3770#5224#0" />
+                <element signature="e#16662#17490#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.color</find>
+      <find>.colors</find>
+      <find>count_wr</find>
+      <find>добавит</find>
+      <find>top_bath_wr</find>
+      <find>Добавить</find>
+      <find>1113px</find>
+      <find>.counter</find>
+      <find>top</find>
+      <find>fixed_product_comparsion</find>
+      <find>data</find>
+      <find>counter</find>
+      <find>characteristic</find>
+      <find>main_body</find>
+      <find>params</find>
+      <find>product</find>
+      <find>count</find>
+      <find>select_para</find>
+      <find>select</find>
+      <find>main_breadcrumbs</find>
+      <find>tile_product</find>
+      <find>comparsion_block</find>
+      <find>.comparison_block</find>
+      <find>compar</find>
+      <find>tabs</find>
+      <find>result_price</find>
+      <find>price_end</find>
+      <find>code_size</find>
+      <find>tile</find>
+      <find>.fixed_product_comparsion</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>xl</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scss/index.scss" />
+        <option value="$PROJECT_DIR$/font/stylesheet.css" />
+        <option value="$PROJECT_DIR$/product.html" />
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/scss/footer.scss" />
+        <option value="$PROJECT_DIR$/scss/header.scss" />
+        <option value="$PROJECT_DIR$/scss/fonts.scss" />
+        <option value="D:/projects/savor_html/js/main.js" />
+        <option value="D:/projects/savor_html/index.html" />
+        <option value="$PROJECT_DIR$/js/touch.js" />
+        <option value="$PROJECT_DIR$/css/lightslider.css" />
+        <option value="$PROJECT_DIR$/js/swiper.esm.bundle.js" />
+        <option value="$USER_HOME$/Desktop/select/js/main.js" />
+        <option value="$USER_HOME$/Desktop/select/delivery.html" />
+        <option value="$PROJECT_DIR$/scss/sales.scss" />
+        <option value="$PROJECT_DIR$/brands.html" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/catalogue_empty.html" />
+        <option value="$PROJECT_DIR$/catalogue_tiles.html" />
+        <option value="$PROJECT_DIR$/delivery.html" />
+        <option value="$PROJECT_DIR$/give_gifts.html" />
+        <option value="$PROJECT_DIR$/installation.html" />
+        <option value="$PROJECT_DIR$/return.html" />
+        <option value="$PROJECT_DIR$/sale_article.html" />
+        <option value="$PROJECT_DIR$/sales.html" />
+        <option value="$PROJECT_DIR$/css/jquery.formstyler.theme.css" />
+        <option value="$PROJECT_DIR$/oferta.html" />
+        <option value="$PROJECT_DIR$/personal_account.html" />
+        <option value="$PROJECT_DIR$/contacts.html" />
+        <option value="$PROJECT_DIR$/top_brands.html" />
+        <option value="$PROJECT_DIR$/basket.html" />
+        <option value="$PROJECT_DIR$/catalogue.html" />
+        <option value="$PROJECT_DIR$/scss/top_pages.scss" />
+        <option value="$PROJECT_DIR$/top_bath.html" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/catalogue.scss" />
+        <option value="$PROJECT_DIR$/scss/card.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$USER_HOME$/Downloads/js fix.js" />
+        <option value="$PROJECT_DIR$/comparsion.html" />
+        <option value="$PROJECT_DIR$/scss/common.scss" />
+        <option value="$PROJECT_DIR$/card_tile.html" />
+        <option value="$PROJECT_DIR$/scss/media.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-91" />
+    <option name="y" value="100" />
+    <option name="width" value="951" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="axor_main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="axor_main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="axor_main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="axor_main" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="axor_main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="axor_main" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="axor_main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="axor_main" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/axor_main/js/main.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cf47abc-40c9-4d87-81a3-7600a22f46d8" name="Default" comment="" />
+      <created>1523946477058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523946477058</updated>
+      <workItem from="1523946478434" duration="2117000" />
+      <workItem from="1523972960122" duration="989000" />
+      <workItem from="1524030820033" duration="427000" />
+      <workItem from="1525274483885" duration="18027000" />
+      <workItem from="1525325815781" duration="30868000" />
+      <workItem from="1525413639350" duration="1219000" />
+      <workItem from="1525414921195" duration="1785000" />
+      <workItem from="1525419400357" duration="2885000" />
+      <workItem from="1525422968760" duration="114000" />
+      <workItem from="1525423112165" duration="190000" />
+      <workItem from="1525423515870" duration="136000" />
+      <workItem from="1525423889833" duration="367000" />
+      <workItem from="1536243932774" duration="22639000" />
+      <workItem from="1536300934394" duration="25769000" />
+      <workItem from="1536328336783" duration="10898000" />
+      <workItem from="1536342566314" duration="346000" />
+      <workItem from="1536386335573" duration="4285000" />
+      <workItem from="1536487467604" duration="123000" />
+      <workItem from="1536487627661" duration="372000" />
+      <workItem from="1536514638355" duration="728000" />
+      <workItem from="1536515428704" duration="4749000" />
+      <workItem from="1536521056696" duration="4526000" />
+      <workItem from="1536558044000" duration="3773000" />
+      <workItem from="1536572858949" duration="14000" />
+      <workItem from="1536594599463" duration="1855000" />
+      <workItem from="1536596519615" duration="806000" />
+      <workItem from="1536599256144" duration="20000" />
+      <workItem from="1536642742477" duration="10131000" />
+      <workItem from="1536656440853" duration="5890000" />
+      <workItem from="1536662942997" duration="725000" />
+      <workItem from="1536666158133" duration="1242000" />
+      <workItem from="1536697850422" duration="10000" />
+      <workItem from="1541255083610" duration="18383000" />
+      <workItem from="1541315014537" duration="6941000" />
+      <workItem from="1541350308446" duration="2153000" />
+      <workItem from="1541367116028" duration="14000" />
+      <workItem from="1541403379171" duration="8355000" />
+      <workItem from="1541428420614" duration="3703000" />
+      <workItem from="1541442336392" duration="6796000" />
+      <workItem from="1541494695003" duration="3839000" />
+      <workItem from="1541498698928" duration="1547000" />
+      <workItem from="1541508257633" duration="12570000" />
+      <workItem from="1541533948205" duration="325000" />
+      <workItem from="1541571632779" duration="2222000" />
+      <workItem from="1541620207995" duration="4571000" />
+      <workItem from="1541661667378" duration="8712000" />
+      <workItem from="1541675825965" duration="1543000" />
+      <workItem from="1541678951292" duration="707000" />
+      <workItem from="1541684636552" duration="11463000" />
+      <workItem from="1541706606476" duration="4451000" />
+      <workItem from="1541747770818" duration="4138000" />
+      <workItem from="1541754441160" duration="7975000" />
+      <workItem from="1541838532266" duration="17391000" />
+      <workItem from="1541871468140" duration="6755000" />
+      <workItem from="1542055553981" duration="1577000" />
+      <workItem from="1542057311811" duration="679000" />
+      <workItem from="1542058290433" duration="263000" />
+      <workItem from="1542092516530" duration="9177000" />
+      <workItem from="1542104959856" duration="14982000" />
+      <workItem from="1542128100108" duration="10855000" />
+      <workItem from="1542175057438" duration="8145000" />
+      <workItem from="1542196915703" duration="15657000" />
+      <workItem from="1542216050612" duration="1536000" />
+      <workItem from="1542221332343" duration="1943000" />
+      <workItem from="1542227013044" duration="316000" />
+      <workItem from="1542266310543" duration="17603000" />
+      <workItem from="1542286974429" duration="4098000" />
+      <workItem from="1542306037031" duration="673000" />
+      <workItem from="1542308313309" duration="5469000" />
+      <workItem from="1542367987978" duration="3751000" />
+      <workItem from="1542372260312" duration="4796000" />
+      <workItem from="1542401393156" duration="4546000" />
+      <workItem from="1542443010192" duration="7979000" />
+      <workItem from="1542530888241" duration="4534000" />
+      <workItem from="1542544472935" duration="5055000" />
+      <workItem from="1542553625234" duration="3859000" />
+      <workItem from="1542558770438" duration="668000" />
+      <workItem from="1542560161831" duration="2050000" />
+      <workItem from="1542565991369" duration="1035000" />
+      <workItem from="1542633998985" duration="1430000" />
+      <workItem from="1542640198087" duration="728000" />
+      <workItem from="1542642334227" duration="1588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="427571000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.22107969" />
+      <window_info id="Structure" order="1" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="Gulp" order="2" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="npm" order="3" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="Favorites" order="4" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2991914" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.21079692" />
+      <window_info id="Structure" order="1" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="Gulp" order="2" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="npm" order="3" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info id="Favorites" order="4" sideWeight="0.501355" side_tool="true" weight="0.17480719" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2991914" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32969153" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/comparsion.html</url>
+          <line>1281</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/jquery.formstyler.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper.esm.bundle.js" />
+    <entry file="file://E:/work/projects/ukraine/js/main.js" />
+    <entry file="file://E:/work/projects/pst.v/oil-seals.html" />
+    <entry file="file://E:/work/projects/pst.v/css/style.css" />
+    <entry file="file://E:/work/projects/pst.v/scss/oil-seals.scss" />
+    <entry file="file://E:/work/projects/P2B/js/main.js" />
+    <entry file="file://E:/work/projects/pst.v/js/common.js" />
+    <entry file="file://$USER_HOME$/Desktop/select/js/main.js" />
+    <entry file="file://$USER_HOME$/Desktop/select/delivery.html" />
+    <entry file="file://$PROJECT_DIR$/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sales.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/work/projects/usa.sinergis.marketing/js/main.js" />
+    <entry file="file://E:/work/projects/usa.sinergis.marketing/index.html" />
+    <entry file="file://E:/work/projects/wonlex/js/main.js" />
+    <entry file="file://E:/work/projects/wonlex/index.html" />
+    <entry file="file://E:/work/projects/aranem_new/index.html" />
+    <entry file="file://$PROJECT_DIR$/catalogue_empty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1537" column="42" selection-start-line="1537" selection-start-column="42" selection-end-line="1537" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalogue_tiles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="1665" column="42" selection-start-line="1665" selection-start-column="42" selection-end-line="1665" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/installation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1473" column="46" selection-start-line="1473" selection-start-column="46" selection-end-line="1473" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/return.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="954" column="46" selection-start-line="954" selection-start-column="46" selection-end-line="954" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sale_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="1398" column="46" selection-start-line="1398" selection-start-column="46" selection-end-line="1398" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="991" column="46" selection-start-line="991" selection-start-column="46" selection-end-line="991" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brands.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="1080" column="4" selection-start-line="1080" selection-start-column="4" selection-end-line="1080" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/design_account/js/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/SmoothScroll.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.formstyler.theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/give_gifts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="946" column="46" selection-end-line="952" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oferta.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5117">
+          <caret line="585" lean-forward="true" selection-start-line="585" selection-end-line="585" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="1231" column="53" selection-start-line="1231" selection-start-column="53" selection-end-line="1231" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_brands.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="790" column="34" lean-forward="true" selection-start-line="640" selection-start-column="28" selection-end-line="790" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/projects/project_mikro/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="2372" column="25" selection-start-line="2372" selection-start-column="25" selection-end-line="2372" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="1002" column="9" selection-end-line="1012" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="892" column="46" selection-start-line="892" selection-start-column="46" selection-end-line="892" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="309" column="56" selection-start-line="309" selection-start-column="56" selection-end-line="309" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/top_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="253" column="7" lean-forward="true" selection-start-line="242" selection-start-column="6" selection-end-line="253" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/top_bath.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="686" column="85" lean-forward="true" selection-start-line="686" selection-start-column="85" selection-end-line="686" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delivery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1237" column="42" lean-forward="true" selection-start-line="1237" selection-start-column="11" selection-end-line="1237" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalogue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="1948" column="10" lean-forward="true" selection-start-line="1938" selection-start-column="4" selection-end-line="1948" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/catalogue.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basket.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="1492" column="11" lean-forward="true" selection-start-line="1481" selection-start-column="8" selection-end-line="1492" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+          <folding>
+            <marker date="1542634235902" expanded="true" signature="6735:7313" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="151" column="13" selection-start-line="151" selection-start-column="13" selection-end-line="151" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/js fix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comparsion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="1305" column="11" selection-start-line="1305" selection-start-column="11" selection-end-line="1305" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <marker date="1542634292758" expanded="true" signature="64986:65479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card_tile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="1648" column="11" selection-start-line="1648" selection-start-column="11" selection-end-line="1648" selection-end-column="11" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#1;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#3;n#div#0;n#div#1;n#div#2;n#div#1;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <marker date="1542640884901" expanded="true" signature="82454:83131" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37502">
+          <caret line="2388" selection-start-line="2388" selection-end-line="2388" />
+          <folding>
+            <element signature="e#2586#5492#0" />
+            <element signature="e#3770#5224#0" />
+            <element signature="e#16662#17490#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="1626" column="18" selection-start-line="1626" selection-start-column="18" selection-end-line="1626" selection-end-column="18" />
+          <folding>
+            <element signature="e#36#462#0" />
+            <element signature="e#964#1177#0" />
+            <element signature="e#1215#2903#0" />
+            <element signature="e#2941#5299#0" />
+            <element signature="e#5337#8243#0" />
+            <element signature="e#8281#9663#0" />
+            <element signature="e#9700#12999#0" />
+            <element signature="e#13036#24673#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
