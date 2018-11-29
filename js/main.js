@@ -86,12 +86,9 @@ $(function() {
     //popups
 
         
-    //                       var swiper = new Swiper('.jojojo', {
-    //   navigation: {
-    //     nextEl: '.swiper_n',
-    //     prevEl: '.swiper_p',
-    //   },
-    // });
+
+
+
 
 
     $('.sidebar .for_popups .call_me, header .bottom_head .call_me').on('click', function () {

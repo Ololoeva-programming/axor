@@ -3291,3 +3291,61 @@ span{
   color: red;
 }
 
+.aft_bef_zoom_card{
+      width: 20px;
+    height: 20px;
+    border: 2px solid #fff;
+    background: red;
+        position: relative;
+            display: block;
+    border-radius: 50%;
+    z-index: 999999999;
+     &:hover{
+      background: #000;
+    }
+
+
+
+
+}
+.front_hover1{
+  background: #fff;
+}
+.span_front_hover2{
+    bottom: 51px;
+    right: 112px;
+         &:hover{
+      background: #000;
+      .front_hover1{
+        background: red!important;
+      }
+    }
+  }
+
+    .span_front_hover1{
+    bottom: 40px;
+    right: 242px;
+    &:hover{
+      body{
+        background: red;
+      }
+    }
+  }
+
+
+  .sale_card_tile{
+    float: right;
+    background: none;
+    border: 1px solid red;
+    position: absolute;
+    height: 35px;
+    border-right: 0;
+    top: 0;
+    right: 1px;
+    width: 80px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  }
