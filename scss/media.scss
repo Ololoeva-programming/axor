@@ -1163,7 +1163,6 @@ height: auto;
 
   .installation{
     .installation_top{
-      display: block;
       .img{
         max-height: 100%;
         img{
@@ -1669,7 +1668,7 @@ margin-right: 10px;
       display: block;
       background: url("../img/montage_mob.jpg") no-repeat;
       background-size: cover;
-      padding: 50px 20px 195px;
+      padding: 50px 20px;
       .left{
        display: none;
       }
@@ -1832,6 +1831,9 @@ margin-right: 10px;
 }
 
 @media screen and(max-width: 600px){
+  .installation .installation_top{
+         display: block;
+  }
   .med_dn{
     display: none;
   }

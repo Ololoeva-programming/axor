@@ -5623,13 +5623,11 @@ footer {
         line-height: 160px; }
       .page404 .abs_text .title {
         font-size: 24px; }
-  .installation .installation_top {
-    display: block; }
-    .installation .installation_top .img {
-      max-height: 100%; }
-      .installation .installation_top .img img {
-        height: auto;
-        max-height: 400px; }
+  .installation .installation_top .img {
+    max-height: 100%; }
+    .installation .installation_top .img img {
+      height: auto;
+      max-height: 400px; }
   .installation .form {
     padding: 30px 20px; }
   .installation .advantages .adv_top {
@@ -5984,7 +5982,7 @@ footer {
     display: block;
     background: url("../img/montage_mob.jpg") no-repeat;
     background-size: cover;
-    padding: 50px 20px 195px; }
+    padding: 50px 20px; }
     .installation .montage .left {
       display: none; }
     .installation .montage .right {
@@ -6087,6 +6085,8 @@ footer {
       text-align: left; } }
 
 @media screen and (max-width: 600px) {
+  .installation .installation_top {
+    display: block; }
   .med_dn {
     display: none; }
   .mar-t-40 {
