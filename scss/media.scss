@@ -1460,6 +1460,26 @@ height: auto;
   }
 }
 
+
+@media screen and(max-width: 768px){
+.spare_parts>.price_one{
+  display: none;
+}
+.basket_page .delete img {
+    width: 30px;
+    height: 30px;
+}
+.spare_parts{
+      padding: 25px 20px!important;
+  .img , .main_info {
+        flex-basis: 100%!important;
+  }
+}
+.main_product{
+  justify-content: center;
+}
+}
+
 @media screen and(min-width: 700px){
 .tabs_contacts a {
     float: left;
