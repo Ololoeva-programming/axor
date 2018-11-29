@@ -1,5 +1,14 @@
 
 
+@media screen and(min-width: 1600px){
+.comparsion_page .comparsion_wr .top_comparsion, .comparsion_page .comparsion_wr .bottom_comparsion {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    width: 1300px!important;
+    display: flex;
+}
+}
+
 @media screen and(min-width: 1300px){
   .card_page .card_wr .card_slider{
         flex-basis: 30%;
