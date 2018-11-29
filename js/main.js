@@ -268,6 +268,11 @@ $(function() {
 
     // show catalog all
 
+    $('.close_filt_media').on('click', function () {
+        $('.main_filter').hide();
+    });
+
+
     $('.index_catalog .main_btn').on('click', function () {
         $('.index_catalog .hidden_700').show();
         $(this).hide();

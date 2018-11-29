@@ -3096,6 +3096,9 @@ footer {
       margin-right: 20px;
       font-size: 30px; }
 
+.close_filt_media {
+  display: none; }
+
 .main_catalogue .catalog_title {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -5069,6 +5072,10 @@ footer {
   .card_page .card_wr .card_info {
     -ms-flex-preferred-size: 68%;
     flex-basis: 68%; } }
+
+@media screen and (min-width: 1201px) {
+  .close_filt_media {
+    display: none !important; } }
 
 @media screen and (min-width: 850px) {
   header {

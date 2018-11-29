@@ -322,6 +322,12 @@
 
 }
 
+@media screen and(min-width: 1201px){
+  .close_filt_media{
+    display: none!important;
+  }
+}
+
 @media screen and(min-width: 850px){
 header{
       background: #fff;
@@ -341,6 +347,7 @@ header {
 }
 
 @media screen and(max-width: 1200px){
+
   .contact_slider .arr_contact{
     background: #000;
   }
