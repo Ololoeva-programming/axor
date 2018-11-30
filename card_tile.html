@@ -1692,6 +1692,13 @@
     <script src="js/main.js"></script>
 
     <script>
+        $(document).ready(function(){
+            $(".span_front_hover1").on('mouseover', function(){
+                $('.front_hover1').css("background-color", "#ebebeb");
+                $(this).css("background-color", "#ebebeb");
+            });
+        });
+        
         $('select').styler();
 
 
