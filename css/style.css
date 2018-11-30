@@ -4740,6 +4740,26 @@ footer {
     -ms-flex-preferred-size: 60%;
     flex-basis: 60%;
     padding-left: 25px; }
+.card_page .card_wr .card_info .tab_content  #checkbox{
+   display: none;}
+.card_page .card_wr .card_info .tab_content  #checkbox + label{
+    margin: 40px 10px 0 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    border: 1px solid #afafaf;    
+    text-align: center;    }
+.card_page .card_wr .card_info .tab_content  #checkbox + label:before{
+    content: '';
+    font-size: 10px;}
+.card_page .card_wr .card_info .tab_content  #checkbox:checked + label{
+    border: 1px solid red; 
+    background: url('../img/icons/checked.png');  }
+.card_page .card_wr .card_info .tab_content  #checkbox:checked + label:before{
+    display: block;
+    content: '';
+    background: url('../img/icons/checked.png');}
     .card_page .card_wr .card_info .card_top {
       color: #1E1E1E;
       display: -webkit-box;
