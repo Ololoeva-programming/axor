@@ -599,7 +599,7 @@
                             <div class="swiper-container gallery-top">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                               <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -607,7 +607,7 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                              <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -615,7 +615,7 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                              <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -624,7 +624,7 @@
                                     </div>
 
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                              <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -632,7 +632,7 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                              <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -640,7 +640,7 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="swiper-zoom-container">
+                                        <div class="swiper-zoom-container open_button">
                                             <img src="img/top_slider/big-1.jpg">
                                             <div  class="aft_bef_zoom_card span_front_hover1"></div>
                                              <div  class="aft_bef_zoom_card span_front_hover2"></div>
@@ -1638,15 +1638,8 @@
                 <img src="img/icons/close.svg" alt="close" class="close_comparsion">
             </div>
         </div>
-
-    </div>
-    <!-- global_wr end -->
-
-
-     <div class="popup card_modal_slider_img">
-            <div class="popup_wr">
-                <div class="close"></div>
- <div class="swiper-container jojojo  ">
+<div class="modal_info">
+  <div class="swiper-container   cl_if_js ">
     <div class="swiper-wrapper">
       <div class="swiper-slide">Slide 1</div>
       <div class="swiper-slide">Slide 2</div>
@@ -1663,8 +1656,12 @@
     <div class="swiper-button-next swiper_n"></div>
     <div class="swiper-button-prev swiper_p"></div>
   </div>
-            </div><!-- popup_wr -->
-        </div><!-- card_modal_slider_img -->
+</div>
+<div class="modal_overlay">
+</div>
+    </div>
+    <!-- global_wr end -->
+
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -1679,13 +1676,6 @@
 
 
 
-
-               var swiper = new Swiper('.jojojo', {
-      navigation: {
-        nextEl: '.swiper_n',
-        prevEl: '.swiper_p',
-      },
-    });
 
 
         <!-- Initialize Swiper -->
@@ -1712,7 +1702,9 @@
         });
 
 
-                          var swiper = new Swiper('.jojojo', {
+
+
+               var swiper = new Swiper('.jojojo', {
       navigation: {
         nextEl: '.swiper_n',
         prevEl: '.swiper_p',
